@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class BaiTap_Screen01 extends AppCompatActivity {
-
+Button s;
     Button btnMau;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
